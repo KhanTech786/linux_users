@@ -1,0 +1,5 @@
+ssh_users:
+  - name: akhan
+    key: "ssh-rsa AAAAB3NzaC1... user1@example.com"
+  - name: jkhan
+    key: "ssh-rsa AAAAB3NzaC1... user2@example.com"
