@@ -5,3 +5,6 @@ ssh_users:
   - name: jkhan
     key: "ssh-rsa AAAAB3NzaC1... user2@example.com"
     status: inactive
+  - name: mkhan
+    key: "ssh-rsa AAAAB3NzaC2... user2@example.com"
+    status: active
