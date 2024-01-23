@@ -2,12 +2,12 @@ ssh_users:
   - name: akhan
     key: "ssh-rsa AAAAB3NzaC1... user1@example.com"
     status: active
-  - name: jkhan1
+  - name: jkhan
     key: "ssh-rsa AAAAB3NzaC1... user2@example.com"
     status: active
   - name: mkhan
     key: "ssh-rsa AAAAB3NzaC2... user2@example.com"
-    status: inactive
+    status: active
   - name: skhan
     key: "ssh-rsa AAAAB3NzaC2... user2@example.com"
     status: active
